@@ -56,12 +56,26 @@ body{
     background: #1C1D21;
 }
 @media (max-width: 705px) {
+  body{
+    background: #B3E5FC;
+  }
   p > button{
-    width: 50%;
+    width: 40%;
+  }
+  button{
+    font-weight: bold;
   }
   #root > button{
-    width: 60px;
+    width: 15%;
     margin: 3% 3%;
+  }
+  div{
+    margin: 2% 4%;
+    display: block;
+
+  }
+  p{
+    color: #2D3142;
   }
 
 }
