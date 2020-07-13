@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Solfege/precache-manifest.ca338ec1d086e8bdd165fbc8ac021b3c.js"
+  "/Solfege/precache-manifest.f694911cd8c63d467ac32c5b53f1f7d7.js"
 );
 
 self.addEventListener('message', (event) => {
