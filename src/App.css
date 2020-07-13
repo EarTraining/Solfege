@@ -55,8 +55,13 @@ button {
 body{
     background: #1C1D21;
 }
-@media (max-width: 600px) {
-  body {
-    background-color: lightblue;
+@media (max-width: 705px) {
+  p > button{
+    width: 50%;
   }
+  #root > button{
+    width: 60px;
+    margin: 3% 3%;
+  }
+
 }
