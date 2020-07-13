@@ -1,0 +1,16 @@
+      <button onClick={checkMIDI}> Do </button>
+      <button onClick={checkMIDI}> Di/Ra </button>
+      <button onClick={checkMIDI}> Re </button>
+      <button onClick={checkMIDI}> Ri/Me </button>
+      <button onClick={checkMIDI}> Mi </button>
+      <button onClick={checkMIDI}> Fa </button>
+      <button onClick={checkMIDI}> Fi/Se </button>
+      <button onClick={checkMIDI}> Sol </button>
+      <button onClick={checkMIDI}> Si/Le </button>
+      <button onClick={checkMIDI}> La </button>
+      <button onClick={checkMIDI}> Li/Te </button>
+      <button onClick={checkMIDI}> Ti </button>
+
+
+
+            <p>{currentMidi}</p>
