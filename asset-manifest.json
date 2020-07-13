@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Solfege/static/css/main.876c82b3.chunk.css",
+    "main.js": "/Solfege/static/js/main.35ebe9d1.chunk.js",
+    "main.js.map": "/Solfege/static/js/main.35ebe9d1.chunk.js.map",
+    "runtime-main.js": "/Solfege/static/js/runtime-main.d29a4625.js",
+    "runtime-main.js.map": "/Solfege/static/js/runtime-main.d29a4625.js.map",
+    "static/js/2.d74100dc.chunk.js": "/Solfege/static/js/2.d74100dc.chunk.js",
+    "static/js/2.d74100dc.chunk.js.map": "/Solfege/static/js/2.d74100dc.chunk.js.map",
+    "static/js/3.d9875e32.chunk.js": "/Solfege/static/js/3.d9875e32.chunk.js",
+    "static/js/3.d9875e32.chunk.js.map": "/Solfege/static/js/3.d9875e32.chunk.js.map",
+    "index.html": "/Solfege/index.html",
+    "precache-manifest.b9494174cb14ce28cc50fdd803d0ad88.js": "/Solfege/precache-manifest.b9494174cb14ce28cc50fdd803d0ad88.js",
+    "service-worker.js": "/Solfege/service-worker.js",
+    "static/css/main.876c82b3.chunk.css.map": "/Solfege/static/css/main.876c82b3.chunk.css.map",
+    "static/js/2.d74100dc.chunk.js.LICENSE.txt": "/Solfege/static/js/2.d74100dc.chunk.js.LICENSE.txt",
+    "static/js/3.d9875e32.chunk.js.LICENSE.txt": "/Solfege/static/js/3.d9875e32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d29a4625.js",
+    "static/js/2.d74100dc.chunk.js",
+    "static/css/main.876c82b3.chunk.css",
+    "static/js/main.35ebe9d1.chunk.js"
+  ]
+}
