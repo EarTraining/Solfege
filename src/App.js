@@ -8,18 +8,18 @@ import styles from './App.css';
 
 function App() {
   
-  let DoFile = new Audio('Solfege/soundFiles/Do.mp3')
-  let DiFile = new Audio('/soundFiles/Di:Ra.mp3')
-  let ReFile = new Audio('/soundFiles/Re.mp3')
-  let RiFile = new Audio('/soundFiles/Ri:Me.mp3')
-  let MiFile = new Audio('/soundFiles/Mi.mp3')
-  let FaFile = new Audio('/soundFiles/Fa.mp3')
-  let FiFile = new Audio('/soundFiles/Fi:Se.mp3')
-  let SolFile = new Audio('/soundFiles/Sol.mp3')
-  let SiFile = new Audio('/soundFiles/Si:Le.mp3')
-  let LaFile = new Audio('/soundFiles/La.mp3')
-  let LiFile = new Audio('/soundFiles/Li:Te.mp3')
-  let TiFile = new Audio('/soundFiles/Ti.mp3')
+  let DoFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Do.mp3')
+  let DiFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Di:Ra.mp3')
+  let ReFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Re.mp3')
+  let RiFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Ri:Me.mp3')
+  let MiFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Mi.mp3')
+  let FaFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Fa.mp3')
+  let FiFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Fi:Se.mp3')
+  let SolFile= new Audio('https://eartraining.github.io/Solfege/soundFiles/Sol.mp3')
+  let SiFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Si:Le.mp3')
+  let LaFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/La.mp3')
+  let LiFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Li:Te.mp3')
+  let TiFile = new Audio('https://eartraining.github.io/Solfege/soundFiles/Ti.mp3')
   
   var midiList = {
     "Do":  DoFile,
