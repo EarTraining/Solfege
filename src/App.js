@@ -8,7 +8,7 @@ import styles from './App.css';
 
 function App() {
   
-  let DoFile = new Audio('/soundFiles/Do.mp3')
+  let DoFile = new Audio('Solfege/soundFiles/Do.mp3')
   let DiFile = new Audio('/soundFiles/Di:Ra.mp3')
   let ReFile = new Audio('/soundFiles/Re.mp3')
   let RiFile = new Audio('/soundFiles/Ri:Me.mp3')
