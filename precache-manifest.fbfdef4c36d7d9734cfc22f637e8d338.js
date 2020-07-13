@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2237f5fb102add00bb42383395042d62",
+    "revision": "3c8cb267df4d41b585df77d98c7badf7",
     "url": "/Solfege/index.html"
   },
   {
-    "revision": "cb58a39e149d3feafff4",
-    "url": "/Solfege/static/css/main.7b3c7e0b.chunk.css"
+    "revision": "80579f2721e1225e461e",
+    "url": "/Solfege/static/css/main.884a82fd.chunk.css"
   },
   {
     "revision": "a4c7f5527bda91f079b8",
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Solfege/static/js/3.d9875e32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb58a39e149d3feafff4",
+    "revision": "80579f2721e1225e461e",
     "url": "/Solfege/static/js/main.6a3dab15.chunk.js"
   },
   {
